@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.pl99.mvnmodulessort.services
 
+import com.github.pl99.mvnmodulessort.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
